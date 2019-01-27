@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>org.kar</groupId>
-    <artifactId>graphql1</artifactId>
+    <artifactId>Spring-Boot-Sample-1</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
